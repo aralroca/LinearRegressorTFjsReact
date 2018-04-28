@@ -1,0 +1,30 @@
+body {
+  font-family: Lato;
+  background-color: #FBE9E7;
+  color: #212121;
+}
+
+input {
+  padding: 5px;
+  display: block;
+}
+
+label {
+  font-weight: bold;
+}
+
+.dataset, .train {
+  margin: 10px 0 10px 0;
+}
+
+.dataset .remove {
+  margin-left: 10px;
+}
+
+.info {
+  font-style: italic;
+}
+
+.error {
+  color: red;
+}

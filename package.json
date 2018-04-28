@@ -1,0 +1,24 @@
+{
+  "name": "LinearModel",
+  "description": "",
+  "homepage": "https://aralroca.github.io/LinearRegressorTFjsReact/",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "@tensorflow/tfjs": "0.10.3",
+    "uuid": "3.2.1"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
