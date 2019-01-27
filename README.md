@@ -5,6 +5,8 @@ This project is just a proof of concept of a **Linear Regressor** model with Ten
 ## Demo
 *  https://aralroca.github.io/LinearRegressorTFjsReact/
 
+![Demo](/public/linear-model.gif)
+
 ## Getting started
 
 * > npm install
