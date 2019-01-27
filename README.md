@@ -2,7 +2,7 @@
 
 This project is just a proof of concept of a **Linear Regressor** model with Tensorflow.js and React.
 
-**DEMO**: https://linearmodel-tensorflowjs-react.stackblitz.io
+**DEMO**: https://aralroca.github.io/LinearRegressorTFjsReact/
 
 ---------------------
 
