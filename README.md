@@ -2,8 +2,16 @@
 
 This project is just a proof of concept of a **Linear Regressor** model with Tensorflow.js and React.
 
-**DEMO**: https://aralroca.github.io/LinearRegressorTFjsReact/
+## Demo
+*  https://aralroca.github.io/LinearRegressorTFjsReact/
 
----------------------
+## Getting started
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+* > npm install
+* > npm start
+
+## More info
+
+if you want to learn more about how it works, I wrote an article explain the main concepts:
+
+* https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/
